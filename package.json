@@ -1,0 +1,22 @@
+{
+  "name": "react-ant-dom",
+  "version": "1.0.0",
+  "description": "react和ant Ui示例",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shengzs/react-ant-dom.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "shengzs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shengzs/react-ant-dom/issues"
+  },
+  "homepage": "https://github.com/shengzs/react-ant-dom#readme"
+}
