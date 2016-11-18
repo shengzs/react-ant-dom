@@ -16,7 +16,7 @@ export default class myTable extends React.Component {
         for (let i = 0; i < 23; i++) {
             data.push({
                 key: i,
-                name: `义坤${i}`,   //带变量的字符串
+                name: `sheng${i}`,   //带变量的字符串
                 age: 18,
                 address: `西湖区湖底公园${i}号`,
                 operate: 'https://www.aliyun.com'

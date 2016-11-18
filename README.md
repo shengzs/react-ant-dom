@@ -3,10 +3,6 @@
 
 ----------
 
-## 项目截图
-
-![](https://img.alicdn.com/tps/TB10sZlNVXXXXclXpXXXXXXXXXX-1425-673.gif)
-
 
 ## 使用方法
 
